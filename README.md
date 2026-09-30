@@ -129,6 +129,7 @@ Curating the best open-source alternatives for famous apps.
 - [OpenFaas](https://github.com/openfaas)
 - [Flynn](https://github.com/flynn)
 - [Caprover](https://github.com/Caprover)
+- [Peon](https://github.com/Peon-sh/Peon)
 - [Tsuru](https://github.com/tsuru)
 
 ### [Hubspot](https://www.hubspot.com/)
